@@ -1,0 +1,14 @@
+{
+  "name": "simplescript-compiler",
+  "version": "1.0.0",
+  "description": "A SimpleScript compiler",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": ["simplescript", "compiler"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
+
